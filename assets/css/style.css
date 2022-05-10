@@ -774,6 +774,7 @@ section {
   position: relative;
   transition: all .35s;
   z-index: 9999;
+  margin-bottom: 10px;
 }
 
 .wrap a span{
